@@ -10,7 +10,7 @@
 </p>
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript, SQL, Python, PHP
+- 🌱 Still learning to explore with JavaScript, SQL, Python, PHP
 - 💻 I’m looking to collaborate on Web Development project for education and social
 - 📱 How to reach me? You can check my Instagram: @nurkhaulah_rzka
 - 📧 You can text me at nurkhaulaharrizka10@gmail.com
