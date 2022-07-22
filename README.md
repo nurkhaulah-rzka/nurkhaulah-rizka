@@ -12,7 +12,12 @@
 - 👀 I’m interested in Web Development
 - 🌱 Still learning to explore with JavaScript, SQL, Python, PHP
 - 💻 I’m looking to collaborate on Web Development project for education and social
-- 📱 How to reach me? You can check my Instagram: @nurkhaulah_rzka
+- 📱 How to reach me? You can check my media social:
+  - Instagram: https://instagram.com/nurkhaulah_rzka
+  - Facebook: https://facebook.com/nurkhaulahrizka/
+  - Twitter: https://twitter.com/nk_rzka/
+  - Youtube: https://bit.ly/YouTube-NurKhaulahArrizka
+  - LinkedIn: https://linkedin.com/in/nurkhaulah-rzka
 - 📧 You can text me at nurkhaulaharrizka10@gmail.com
 - 🌟 My hobbies are playing pianika/kalimba, cubes, badminton
 
