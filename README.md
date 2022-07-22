@@ -1,4 +1,5 @@
-<h2 style="color: rgb(30, 146, 107); text-align: center;"> 👋 Hi, I’m Nur Khaulah Arrizka </h1>
+<h1 style="color: rgb(30, 146, 107); text-align: center;"> 👋 Hi, I’m Nur Khaulah Arrizka </h1>
+<h2> Welcome to my Github ^_^ </h2>
 <hr>
 
 - 👀 I’m interested in Web Development
