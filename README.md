@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurkhaulaharrizka
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS, and JavaScript languages
+- 🌱 I’m currently learning JavaScript, SQL, Python, PHP
 - 💞️ I’m looking to collaborate on Web Development project for education and social
 - 📫 How to reach me I have Instagram: @nurkhaulah_rzka
 
