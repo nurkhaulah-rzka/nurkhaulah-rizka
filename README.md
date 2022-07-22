@@ -2,6 +2,13 @@
 <h2> Welcome to my Github ^_^ </h2>
 <hr>
 
+<p align="left">
+<a href="https://github.com/nurkhaulah-rzka">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nurkhaulah-rzka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurkhaulah-rzka&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, SQL, Python, PHP
 - 💻 I’m looking to collaborate on Web Development project for education and social
