@@ -22,7 +22,7 @@
 - 🌟 My hobbies are playing pianika/kalimba, cubes, badminton
 
 <hr>
-<font style="color: rgb(30, 146, 107); text-align: center;"> 📚 I'm currently studying at the Muhammadiyah University of Surakarta, majoring in informatics engineering in the fifth semester </font>
+<font style="color: rgb(30, 146, 107); text-align: center;"> 📚 I'm currently studying at the Muhammadiyah University of Surakarta, majoring in informatics engineering in the fifth semester. </font>
 
 <!---
 nurkhaulaharrizka/nurkhaulaharrizka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
