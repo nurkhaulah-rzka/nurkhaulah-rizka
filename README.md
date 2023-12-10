@@ -9,20 +9,20 @@
 </a>
 </p>
 
-- 👀 I’m interested in Web Development
-- 🌱 Still learning to explore with JavaScript, SQL, Python, PHP
-- 💻 I’m looking to collaborate on Web Development project for education and social
+- 👀 I’m interested in Web Development, Game Development, UI/UX Design, and Augmented Reality
+- 🌱 Still learning to explore with Java, JavaScript, SQL, PHP
+- 💻 I’m looking to collaborate on project for education and social
 - 📱 How to reach me? You can check my media social:
   - Instagram: https://instagram.com/nurkhaulah_rzka
   - Facebook: https://facebook.com/nurkhaulahrizka/
   - Twitter: https://twitter.com/nk_rzka/
   - Youtube: https://bit.ly/YouTube-NurKhaulahArrizka
   - LinkedIn: https://linkedin.com/in/nurkhaulah-rzka
-- 📧 You can text me at nurkhaulaharrizka10@gmail.com
+- 📧 You can text me at nurkhaulaharrizka10@gmail.com (slowrespon)
 - 🌟 My hobbies are playing pianika/kalimba, cubes, badminton
 
 <hr>
-<font style="color: rgb(30, 146, 107); text-align: center;"> 📚 I'm currently studying at the Muhammadiyah University of Surakarta, majoring in informatics engineering in the fifth semester. </font>
+<font style="color: rgb(30, 146, 107); text-align: center;"> 📚 I'm currently studying at the Muhammadiyah University of Surakarta, majoring in informatics engineering in the seventh semester. </font>
 
 <!---
 nurkhaulaharrizka/nurkhaulaharrizka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
